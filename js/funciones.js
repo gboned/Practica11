@@ -34,3 +34,6 @@ function pedirPersonaje(id) {
     
     }
 }
+
+// Invocar a la función al abrir la página.
+pedirPersonaje();
